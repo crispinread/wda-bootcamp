@@ -1,8 +1,8 @@
 +++
 date = "2017-05-19T22:53:55+01:00"
-icon = "<b>X. </b>"
+icon = "<i class='fa fa-wordpress' aria-hidden='true' ></i>"
 title = "Wordpress"
-weight = 2
+weight = 3
 
 +++
 

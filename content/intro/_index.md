@@ -1,8 +1,8 @@
 +++
 date = "2017-05-19T21:40:49+01:00"
-icon = "<b>X. </b>"
+icon = "<b>1. </b>"
 title = "Introduction"
-weight = 0
+weight = 1
 
 +++
 
