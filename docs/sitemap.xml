@@ -2,37 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/drupal/</loc>
-    <lastmod>2017-05-19T22:53:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/wordpress/</loc>
-    <lastmod>2017-05-19T22:53:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/</loc>
-    <lastmod>2017-05-19T22:54:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/intro/</loc>
+    <loc>https://wdanuk.github.io/wda-bootcamp/intro/</loc>
     <lastmod>2017-05-19T21:40:49+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://wdanuk.github.io/wda-bootcamp/drupal/</loc>
+    <lastmod>2017-05-19T22:53:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wdanuk.github.io/wda-bootcamp/wordpress/</loc>
+    <lastmod>2017-05-19T22:53:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wdanuk.github.io/wda-bootcamp/projects/</loc>
+    <lastmod>2017-05-19T22:54:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wdanuk.github.io/wda-bootcamp/intro/cms/</loc>
+    <lastmod>2017-05-21T22:14:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wdanuk.github.io/wda-bootcamp/intro/setup/</loc>
+    <lastmod>2017-05-21T22:13:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wdanuk.github.io/wda-bootcamp/resources/</loc>
+    <lastmod>2017-05-21T22:04:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wdanuk.github.io/wda-bootcamp/overview/</loc>
+    <lastmod>2017-05-21T22:04:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wdanuk.github.io/wda-bootcamp/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://wdanuk.github.io/wda-bootcamp/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://wdanuk.github.io/wda-bootcamp/</loc>
+    <lastmod>2017-05-21T22:14:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
