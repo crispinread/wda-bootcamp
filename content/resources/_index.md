@@ -1,13 +1,13 @@
 +++
 date = "2017-05-21T22:04:50+01:00"
-icon = "<b>X. </b>"
-title = "Some Chapter title"
-weight = 0
+icon = "<i class='fa fa-bookmark-o' aria-hidden='true'></i> "
+title = "Resources"
+weight = 5
 
 +++
 
 ### Chapter X
 
-# Some Chapter title
+# Resources
 
 Lorem ipsum

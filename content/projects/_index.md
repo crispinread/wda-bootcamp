@@ -1,6 +1,6 @@
 +++
 date = "2017-05-19T22:54:15+01:00"
-icon = "<b>X. </b>"
+icon = "<i class='fa fa-book' aria-hidden='true'></i>"
 title = "Projects"
 weight = 4
 

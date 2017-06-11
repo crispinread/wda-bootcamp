@@ -1,6 +1,6 @@
 +++
 date = "2017-05-19T21:40:49+01:00"
-icon = "<b>1. </b>"
+icon = "<i class='fa fa-info-circle' aria-hidden='true'></i> "
 title = "Introduction"
 weight = 1
 
