@@ -1,5 +1,0 @@
-baseURL = "https://wdanuk.github.io/wda-bootcamp"
-languageCode = "en-us"
-title = "Web Development Apprenticeship Bootcamp"
-theme = "hugo-theme-learn"
-publishDir = "docs"
