@@ -5,5 +5,3 @@ pluralise(5, 'cat'): '5 cats'
 pluralise(7, 'turtle'): '7 turtles'
 ```
 Bonus: Make it handle a few collective nouns like "sheep" and "geese".
-<sub>Forked from Girl, Develop It
-Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>

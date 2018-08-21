@@ -5,6 +5,3 @@ Using this tool, update your fahrenheit to celsius tempature conversion program 
 
 1. Instead of inputing a value for the Fahrenheit tempature, use Math.random() to generate a random tempature between 0 and 100
 1. Have to program output: "It is NN°F today. That's NN°C."
-
-<sub>Forked from Girl, Develop It
-Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>

@@ -41,5 +41,3 @@ for (var i = 100; i <= 200; i++) {
   }
 }
 ```
-<sub>Forked from Girl, Develop It
-Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>

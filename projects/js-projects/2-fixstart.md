@@ -5,6 +5,3 @@ Create a function called `fixStart`. It should take a single argument, a string,
 fixStart('babble'): 'ba**le'
 fixStart('turtle'): 'tur*le'
 ```
-
-<sub>Forked from Girl, Develop It
-Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>

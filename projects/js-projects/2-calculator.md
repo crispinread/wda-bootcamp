@@ -9,6 +9,3 @@
     1. Square the result of #1 and store that result.
     1. Calculate the area of a circle with the result of #2 as the radius.
     1. Calculate what percentage that area is of the squared result (#3).
-
-    <sub>Forked from Girl, Develop It
-    Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>

@@ -9,5 +9,3 @@ Create a function called `mixUp`. It should take in two strings, and return the 
 mixUp('mix', 'pod'): 'pox mid'
 mixUp('dog', 'dinner'): 'dig donner'
 ```
-<sub>Forked from Girl, Develop It
-Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>

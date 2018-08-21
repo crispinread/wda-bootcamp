@@ -9,6 +9,3 @@ Let's make a program to convert celsius tempatures to fahrenheit and vice versa,
 1. Convert it to fahrenheit and output "NN°C is NN°F".
 1. Now store a fahrenheit temperature into a variable.
 1. Convert it to celsius and output "NN°F is NN°C."
-
-<sub>Forked from Girl, Develop It
-Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>
