@@ -72,3 +72,5 @@ jolene.talk();
 
 jolene.eat('pizza');
 ```
+<sub>Forked from Girl, Develop It
+Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>

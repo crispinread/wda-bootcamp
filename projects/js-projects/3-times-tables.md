@@ -1,7 +1,7 @@
 Write a program to output the times tables from 1 through to 12. Use a loop within a loop.
 
 ## For Loop
-[`for`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for) loops - declare a counter in the statement 
+[`for`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for) loops - declare a counter in the statement
 ```javascript
 // will count 1 to 10
 for (var i = 1; i <= 10; i++) {
@@ -41,3 +41,5 @@ for (var i = 100; i <= 200; i++) {
   }
 }
 ```
+<sub>Forked from Girl, Develop It
+Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>
