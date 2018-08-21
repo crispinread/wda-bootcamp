@@ -1,0 +1,10 @@
+# Using Math functions
+JavaScript has a built-in tool that can generate a random number between 0 and 1. This tool is called a *method*. We'll talk about methods more later in the class. For now, know if you type `Math.random()`, you'll get a random number between 0 and 1.
+
+Using this tool, update your fahrenheit to celsius tempature conversion program to do the following:
+
+1. Instead of inputing a value for the Fahrenheit tempature, use Math.random() to generate a random tempature between 0 and 100
+1. Have to program output: "It is NN°F today. That's NN°C."
+
+<sub>Forked from Girl, Develop It
+Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>
