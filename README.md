@@ -3,7 +3,7 @@ Documentation for our Web Development Apprenticeship - Pre Apprenticeship Traini
 
 ## Boot-camp Objectives and Goals
 
-Our main objectives are:
+### Our main objectives are:
 1. To ensure a good understanding of the fundamental languages used in Web Dev
     1. HTML
     1. CSS
@@ -16,12 +16,6 @@ Our main objectives are:
     1. Glitch
     1. Atom
 1. Build a **portfolio** to show potential employers examples of our work
-
-Employers will want to see you:
-1. Responding to challenges and fixing problems
-1. Writing good, clean, well spaced code **with comments**
-1. Have a really good grasp of markup
-1. have progressed and learned new things during the bootcamp
 
 ### End of Week 1
 At the end of the first week you should be aiming for:
@@ -51,6 +45,12 @@ At the end of the first week you should be aiming for:
 
 ## Blog Posts - Tips and Ideas
 It is a really good idea to put more than the minimum required number of blog posts or portfolio items on your site. Blog posts do not need to be very long but should always be more than a sentence or two. Here are some tips and ideas for posts:
+
+### Employers will want to see you:
+1. Responding to challenges and fixing problems
+1. Writing good, clean, well spaced code **with comments**
+1. Have a really good grasp of markup
+1. Have progressed and learned new things during the bootcamp
 
 ### Tips
 1. **Use short sentences and lists**
