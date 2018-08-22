@@ -1,4 +1,4 @@
-# wda-bootcamp
+# Web Dev Apprenticeship 'Boot-Camp'
 Documentation for our Web Development Apprenticeship - Pre Apprenticeship Training
 
 ## Boot-camp Objectives and Goals
