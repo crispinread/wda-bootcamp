@@ -15,7 +15,13 @@ Our main objectives are:
     1. Git and GitHub
     1. Glitch
     1. Atom
-1. Build a **portfolio** to show potential employers examples of our work 
+1. Build a **portfolio** to show potential employers examples of our work
+
+Employers will want to see you:
+1. Responding to challenges and fixing problems
+1. Writing good, clean, well spaced code **with comments**
+1. Have a really good grasp of markup
+1. have progressed and learned new things during the bootcamp
 
 ### End of Week 1
 At the end of the first week you should be aiming for:
@@ -70,4 +76,5 @@ It is a really good idea to put more than the minimum required number of blog po
 http://www.codewars.com/)
 * [Test yourself on JavaScript](http://jonathannicol.com/blog/2012/04/15/test-your-javascript-skills-with-js-assessment/ )
 * [W3 Schools JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp)
-* [Laravel quick start] https://laravel.com/docs/4.2/quick
+* [Laravel quick start](https://laravel.com/docs/4.2/quick)
+* [PHP Tutorials and Challenges](https://freshdesignweb.com/php-tutorial-and-examples-for-beginners/)
