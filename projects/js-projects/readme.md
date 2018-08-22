@@ -9,3 +9,6 @@ Challenges beginning 1, 2 3 or 4 correspond to the following slide decks:
 
 <sub>Forked from Girl, Develop It
 Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>
+
+In addition please take a look at the **JavaScript Algorithms and Data Structures** project on Free Code Camp:
+https://learn.freecodecamp.org/
