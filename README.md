@@ -1,5 +1,9 @@
-# Web Dev Apprenticeship 'Boot-Camp'
-Documentation for our Web Development Apprenticeship - Pre Apprenticeship Training
+---
+layout: page
+title: Web Dev Apprenticeship 'Boot-Camp'
+subtitle: Documentation for our Web Development Apprenticeship - Pre Apprenticeship Training
+use-site-title: true
+---
 
 ## Boot-camp Objectives and Goals
 
