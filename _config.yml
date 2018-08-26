@@ -12,8 +12,8 @@ theme: jekyll-theme-minimal
 # baseurl: "wda-bootcamp"
 
 # If you are building a GitHub project page then use these settings:
-url: "https://wdanuk.github.io/"
-baseurl: "/wda-bootcamp"
+url: "https://wdanuk.github.io/wda-bootcamp"
+baseurl: "/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -27,19 +27,16 @@ description: Links, info, challenges and resources to get a kick start in a web 
 
 # List of links in the navigation bar
 navbar-links:
-  Home: readme.md
-  CMS: cms.md
-  HTML and CSS: htmlcss.md
-  JavaScript: javascript.md
+  Home: "readme"
   Projects:
-    - JavaScript Projects: "http://deanattali.com/beautiful-jekyll/"
-    - HTRML & CSS Projects: "http://www.markdowntutorial.com/"
-    - CMS Projects: "https://pages.github.com/"
+    - JavaScript Projects: "/projects/js-projects/readme"
+    - HTML & CSS Projects: "/projects/js-projects/readme"
+    #- CMS Projects: "/projects/cms-projects/readme"
   WDAN: "https://wdan.uk"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/wdan-logo-white.png"
+avatar: "/img/wdan-logo-wht.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
