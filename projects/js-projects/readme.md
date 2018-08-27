@@ -6,7 +6,6 @@ use-site-title: true
 permalink: /projects/js
 ---
 
-# JavaScript Projects
 Projects to accompany the Intro to JavaScript group sessions.
 
 Challenges beginning 1, 2 3 or 4 correspond to the following slide decks:
