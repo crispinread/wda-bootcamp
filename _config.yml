@@ -23,7 +23,7 @@ description: Links, info, challenges and resources to get a kick start in a web 
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "/"
   Projects: "projects"
     - JavaScript Projects: "projects/js"
     - HTML & CSS Projects: "projects/html-css"
