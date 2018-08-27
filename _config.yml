@@ -23,7 +23,7 @@ description: Links, info, challenges and resources to get a kick start in a web 
 
 # List of links in the navigation bar
 navbar-links:
-  Projects: 
+  Projects:
     - JavaScript Projects: "projects/js"
     - HTML & CSS Projects: "projects/html-css"
     - CMS Projects: "projects/cms"
@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author: Crispin Read
-  name: WDAN
+  name: Crispin Read
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
