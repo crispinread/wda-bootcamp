@@ -3,7 +3,7 @@ layout: page
 title: Web Dev Apprenticeship 'Boot-Camp'
 subtitle: Documentation for our Web Development Apprenticeship - Pre Apprenticeship Training
 use-site-title: true
-permalink: /
+permalink: 
 ---
 
 ## Boot-camp Objectives and Goals
