@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Preparation
+title: Reasearch
 subtitle: Tips and resources for finding a position and preparing for interviews
 use-site-title: true
 permalink: /research
 ---
 
-G
-ather a list of potential companies and organisations from your local area to approach. Five is not enough, you will need to apply to more than 20 places to be in with a chance of finding one who is open to the idea of an apprenticeANDready to hire now. The more companies you approach the better chance you have.
+Gather a list of potential companies and organisations from your local area to approach. Five is not enough, you will need to apply to more than 20 places to be in with a chance of finding one who is open to the idea of an apprentice AND ready to hire now. The more companies you approach the better chance you have.
 
 ### Web search
 
