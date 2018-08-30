@@ -16,15 +16,19 @@ We are hosting a session of quick fire 6 minute interviews between you and local
 
 ### Where
 [Duke Studios](https://goo.gl/maps/V4d4NpeXiiL2)
+
 3 Sheaf St
+
 Leeds
+
 LS10 1HD
 
 ### When
-Wednesday 5th September 2018
-2pm - 4pm Interview prep workshop
-4pm - 5pm Self led preparation / break
-5pm - Presentation to employers by Sheena and Crispin
+#### Wednesday 5th September 2018
+* 2pm - 4pm Interview prep workshop
+* 4pm - 5pm Self led preparation / break
+* 5pm - Presentation to employers by Sheena and Crispin
+* 7pm - End
 
 
 ## Companies we are talking to

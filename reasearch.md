@@ -50,6 +50,7 @@ There are always local groups to attend that will connect you to people who can 
 * [Leeds JS](https://www.meetup.com/LeedsJS/)
 * [Drupal Yorkshire](https://www.drupalyorkshire.org.uk/)
 * [Leeds Web Dev](https://leedswebdev.org/)
+
 ##### London
 * [Drupal Show and Tell](http://www.drupalshowandtell.com/)
 * [Drupal Pub meet](https://www.meetup.com/London-Drupal-Pub-Meet/)
