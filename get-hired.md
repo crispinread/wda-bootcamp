@@ -35,13 +35,13 @@ LS10 1HD
 * [CastleGate IT](https://www.castlegateit.co.uk/)
 * [Creode](https://www.creode.co.uk/)
 * [First 10](https://www.first10.co.uk/)
-* [Green Gecko](greengeckodigital.co.uk)
+* [Green Gecko](https://greengeckodigital.co.uk)
 * [My Discount Shop](https://www.mydiscountshop.co.uk/)
 * [New Redo](https://www.newredo.com/)
 * [Pepper Digital](https://www.pepperdigital.com/)
 * [Sculpt](https://sculpt.digital/)
 * [Synap](https://synap.ac/)
-* [Top Screen Media](topscreenmedia.com/)
+* [Top Screen Media](https://topscreenmedia.com/)
 * [Zeal](https://wehavezeal.com/)
 
 ## Find your own
