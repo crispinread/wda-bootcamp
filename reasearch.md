@@ -3,7 +3,7 @@ layout: page
 title: Preparation
 subtitle: Tips and resources for finding a position and preparing for interviews
 use-site-title: true
-permalink: /preparation
+permalink: /research
 ---
 
 G
