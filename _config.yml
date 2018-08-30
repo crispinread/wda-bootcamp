@@ -8,8 +8,8 @@
 # baseurl: "wda-bootcamp"
 
 # If you are building a GitHub project page then use these settings:
-url: "https://bootcamp.wdan.uk/"
-baseurl: "bootcamp.wdan.uk"
+url: "https://wdanuk.github.io/wda-bootcamp"
+baseurl: "/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
