@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reasearch
+title: Research
 subtitle: Tips and resources for finding a position and preparing for interviews
 use-site-title: true
 permalink: /research
