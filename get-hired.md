@@ -28,6 +28,17 @@ Wednesday 5th September 2018
 
 
 ## Companies we are talking to
+* [CastleGate IT](https://www.castlegateit.co.uk/)
+* [Creode](https://www.creode.co.uk/)
+* [First 10](https://www.first10.co.uk/)
+* [Green Gecko](greengeckodigital.co.uk)
+* [My Discount Shop](https://www.mydiscountshop.co.uk/)
+* [New Redo](https://www.newredo.com/)
+* [Pepper Digital](https://www.pepperdigital.com/)
+* [Sculpt](https://sculpt.digital/)
+* [Synap](https://synap.ac/)
+* [Top Screen Media](topscreenmedia.com/)
+* [Zeal](https://wehavezeal.com/)
 
 ## Find your own
 Remember you can reach people that we cannot - finding a company you would like to work for and approaching them yourself is a really good way to secure yourself a placement. See our [Preparation](preparation) and [Research](research) pages for more.
