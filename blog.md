@@ -7,7 +7,7 @@ We want to create a site for you to show to prospective employers. It will act a
 
 ## Set-Up
 
-1. Login or create an account at [Pantheon.io](https://pantheon.io/)
+1. Login or create an account at [
 1. Spin up a new Wordpress installation
 1. Follow the install process
 
@@ -25,7 +25,7 @@ When choosing a theme remember to look for a responsive one and if it has extra 
 
 ## Content
 
-We are looking for a nice frontpage explaining who you are and what the site is about and a blog where you can record what you are learning or have done previously. You might want to add a contact form and an about page with more details about your qualifications and experience.
+We are looking for a nice front-page explaining who you are and what the site is about and a blog where you can record what you are learning or have done previously. You might want to add a contact form and an about page with more details about your qualifications and experience.
 
 ## Resources
 
