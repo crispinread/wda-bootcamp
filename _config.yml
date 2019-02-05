@@ -23,6 +23,7 @@ description: Links, info, challenges and resources to get a kick start in a web 
 
 # List of links in the navigation bar
 navbar-links:
+  Goals: "goals"
   Create Blog: "blog"
   Git: "git"
   Projects:
@@ -35,7 +36,6 @@ navbar-links:
     - Preparation: "preparation"
     - Research: "research"
     - Interviews: "interviews"
-  WDAN: "https://wdan.uk"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
