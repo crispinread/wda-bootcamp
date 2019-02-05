@@ -35,6 +35,34 @@ When choosing a theme remember to look for a responsive one and if it has extra 
 
 We are looking for a nice front-page explaining who you are and what the site is about and a blog where you can record what you are learning or have done previously. You might want to add a contact form and an about page with more details about your qualifications and experience.
 
+
+## Blog Posts - Tips and Ideas
+It is a really good idea to put more than the minimum required number of blog posts or portfolio items on your site. Blog posts do not need to be very long but should always be more than a sentence or two. Here are some tips and ideas for posts:
+
+### Employers will want to see you:
+1. Responding to challenges and fixing problems
+1. Writing good, clean, well spaced code **with comments**
+1. Have a really good grasp of markup
+1. Have progressed and learned new things during the bootcamp
+
+### Tips
+1. **Use short sentences and lists**
+1. **Use images in your posts** - Take pictures on your phone, use  [Screengrabs](https://chrome.google.com/webstore/detail/awesome-screenshot-minus/bnophbnknjcjnbadhhkciahanapffepm?hl=en) or search for [free images](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
+1. **Embed code** - Employers will want to see that you can write code as well as talk about it, you can embed codepens or paste directly within `<code>` tags - add syntax style if you can to make it easier to read.
+1. **...and don't forget the spell checker**
+
+### Ideas for Posts
+1. Daily or Weekly  Record
+1. Showcase of a previous piece of work
+1. Showcase of a challenge from this bootcamp
+1. Key takeouts from Treehouse tracks
+1. Key takeouts from Intro to JavaScript
+1. How I built my blog, what system I chose and why, what themes I looked at, what I plan to do in the future
+1. Content Management
+1. Drupal Vs Wordpress
+1. Open Source
+
+
 ## Resources
 
 * **Watch:** [What is Wordpress](https://www.youtube.com/watch?v=VdvEdMMtNMY)
@@ -43,7 +71,7 @@ We are looking for a nice front-page explaining who you are and what the site is
 
 * **Read:** [About Wordpress](https://wordpress.org/about/)
 
-* **Watch:** [Wordpress.](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)**[co**m](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)[ Vs Wordpress.](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)**[or**g](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)
+* **Watch:** [Wordpress.com Vs Wordpress.org](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)**[co**m](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)
 
 * [Exploring the WordPress Dashboard](https://ithemes.com/tutorials/wordpress-dashboard/)
 
@@ -67,4 +95,4 @@ We are looking for a nice front-page explaining who you are and what the site is
 
 * [Scheduling WordPress Posts](https://ithemes.com/tutorials/scheduling-wordpress-posts/)
 
-https://codex.wordpress.org/Administration_Panels
+* [Admin panels](https://codex.wordpress.org/Administration_Panels)
