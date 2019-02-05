@@ -7,9 +7,9 @@ We want to create a site for you to show to prospective employers. It will act a
 
 ## Set-Up
 
-1. Login or create an account at [
-1. Spin up a new Wordpress installation
-1. Follow the install process
+1. Go to yourname.wdan.uk/cpanel
+  E.g. crispin.wdan.uk/cpanel
+1. Follow the facilitator through the set up process
 
 ### Config
 
