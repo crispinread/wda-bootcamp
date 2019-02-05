@@ -1,3 +1,11 @@
+---
+layout: page
+title: Create a blog
+subtitle: Build a blog to chart progress at Pre Apprenticeship Training
+use-site-title: true
+permalink: /blog
+---
+
 # Create a Blog
 Create a blog site to record your progress and showcase your skills. We recommend using Wordpress but there are other options.
 
