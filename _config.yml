@@ -23,6 +23,8 @@ description: Links, info, challenges and resources to get a kick start in a web 
 
 # List of links in the navigation bar
 navbar-links:
+  Create Blog: "blog.md"
+  Git: "git.md"
   Projects:
     - Projects Overview: "projects"
     - JavaScript Projects: "projects/js"
