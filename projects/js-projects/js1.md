@@ -3,7 +3,7 @@ layout: page
 title: JavaScript Projects 1
 subtitle: JavaScript Projects for our Pre Apprenticeship Training
 use-site-title: true
-permalink: /projects/javascript-projects1
+permalink: /projects/js1
 ---
 
 # The Age Calculator
