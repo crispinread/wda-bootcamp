@@ -45,6 +45,7 @@ LS9 8AG
 * [Ewe](http://www.ewe.agency/)
 * [Symbiant](symbiant.co.uk)
 * [AntHill](https://www.anthill.co.uk/)
+* [Sticky Eyes](https://www.stickyeyes.com/)
 
 
 ## Find your own
