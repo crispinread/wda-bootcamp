@@ -18,9 +18,9 @@ https://pages.github.com/
 
 Here are a couple of examples of something simple:
 
-![](example1.png)
+![](/img/example1.png)
 
-![](example2.png)
+![](/img/example2.png)
 
 
 Here is another example
