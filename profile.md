@@ -14,7 +14,7 @@ You can host simple sites using GitHub pages - you just turn the option on in th
 **https://username.github.io.**
 
 Here is a how to from GitHub themselves:
-https://pages.github.com/
+[https://pages.github.com/](https://pages.github.com/)
 
 Here are a couple of examples of something simple:
 
@@ -24,10 +24,10 @@ Here are a couple of examples of something simple:
 
 
 Here is another example
-https://crispinread.co.uk/
+[crispinread.co.uk](https://crispinread.co.uk/)
 
 I used a template to create that site but you could do one from scratch.
 
-You could use a css framework like [Bootstrap](https://getbootstrap.com/) or skeleton](http://getskeleton.com/) - there are loads...
+You could use a css framework like [Bootstrap](https://getbootstrap.com/) or [Skeleton](http://getskeleton.com/) - there are loads...
 
 You could get inspiration from showcase sites like [Dribbble](https://dribbble.com/) or [onepagelove](https://onepagelove.com/gallery/personal); blogs like [The Muse](https://www.themuse.com/advice/our-24-favorite-onepage-personal-websites-will-inspire-you-to-make-your-own) or even good ol' [Google](https://www.google.com/search?q=simple+one+page+personal+site&rlz=1C5CHFA_enGB802GB802&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiFnIqduqfgAhVKZ1AKHeMNBywQ_AUIDigB&biw=1440&bih=820)
