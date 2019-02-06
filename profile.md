@@ -16,6 +16,14 @@ You can host simple sites using GitHub pages - you just turn the option on in th
 Here is a how to from GitHub themselves:
 [https://pages.github.com/](https://pages.github.com/)
 
+What we are looking for here is
+ - Image of you
+ - Intro text
+ - Link to your blog
+ - Link to your GitHub
+ - Link to your social - Twitter / LinkedIn etc.
+ - etc.
+
 Here are a couple of examples of something simple:
 
 ![](/img/example1.png)
