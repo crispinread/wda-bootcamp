@@ -15,34 +15,37 @@ Keep up with your learning and blogging - you have full access to all of the cou
 We are hosting a session of quick fire 6 minute interviews between you and local employers. We'll have a workshop for a couple of hours beforehand to help you to prepare.
 
 ### Where
-[Duke Studios](https://goo.gl/maps/V4d4NpeXiiL2)
+[ODI Leeds](https://odileeds.org/)
 
-3 Sheaf St
-
+3rd Floor,
+Munro House,
+Duke Street,
 Leeds
-
-LS10 1HD
+LS9 8AG
+[Directions](https://www.google.com/maps?z=16&q=address:+odi+leeds+3rd+floor+munro+house+duke+street+ls9+8ag)
 
 ### When
-#### Wednesday 5th September 2018
-* 2pm - 4pm Interview prep workshop
-* 4pm - 5pm Self led preparation / break
+#### Wednesday 27th February
+
 * 5pm - Presentation to employers by Sheena and Crispin
+* 5:30pm - 5 minute Interviews
 * 7pm - End
 
 
 ## Companies we are talking to
-* [CastleGate IT](https://www.castlegateit.co.uk/)
 * [Creode](https://www.creode.co.uk/)
 * [First 10](https://www.first10.co.uk/)
 * [Green Gecko](https://greengeckodigital.co.uk)
-* [My Discount Shop](https://www.mydiscountshop.co.uk/)
 * [New Redo](https://www.newredo.com/)
 * [Pepper Digital](https://www.pepperdigital.com/)
 * [Sculpt](https://sculpt.digital/)
-* [Synap](https://synap.ac/)
-* [Top Screen Media](https://topscreenmedia.com/)
+* [NHS Digital](https://digital.nhs.uk/)
 * [Zeal](https://wehavezeal.com/)
+* [Skybet](https://www.skybetcareers.com/)
+* [Ewe](http://www.ewe.agency/)
+* [Symbiant](symbiant.co.uk)
+* [AntHill](https://www.anthill.co.uk/)
+
 
 ## Find your own
 Remember you can reach people that we cannot - finding a company you would like to work for and approaching them yourself is a really good way to secure yourself a placement. See our [Preparation](preparation) and [Research](research) pages for more.
