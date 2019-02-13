@@ -17,8 +17,13 @@ Short projects to accompany the Intro to JavaScript group sessions.
 ### Intro - Functions and Control Flow
 **Slides:** [Class 2: Functions and Control Flow](http://girldevelopit.github.io/gdi-featured-js-intro/class2.html)
 
+**Tasks:** [Functions and Control Flow](js2)
+
+
 ### Intro - Loops, Arrays, and Objects
 **Slides:** [Class 3: Loops, Arrays, and Objects](http://girldevelopit.github.io/gdi-featured-js-intro/class3.html)
+
+**Tasks:** [Loops, Arrays, and Objects](js3)
 
 ### Intro - Introduction to the DOM
 **Slides:** [Class 4: Introduction to the DOM](http://girldevelopit.github.io/gdi-featured-js-intro/class4.html)
