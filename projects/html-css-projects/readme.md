@@ -6,7 +6,7 @@ use-site-title: true
 permalink: /projects/html-css
 ---
 
-By working on these projects you have the opportunity of applying all the skills, principles and concepts you have learnt so far HTML, CSS, Visual Design, Accessibility, etc.
+By working on these projects you have the opportunity of applying all the skills, principles and concepts you have learnt so far HTML, CSS, Visual Design, Accessibility, etc. There is no need to rush through them all. It is more important to treat each one as a learning experience.
 
 ## Profile page
 
