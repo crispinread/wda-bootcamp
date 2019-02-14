@@ -25,7 +25,6 @@ description: Links, info, challenges and resources to get a kick start in a web 
 navbar-links:
   Goals: "goals"
   Blog: "blog"
-  Profile: "profile"
   Git: "git"
   Projects:
     - Projects Overview: "projects"
