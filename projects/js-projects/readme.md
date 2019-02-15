@@ -28,6 +28,8 @@ Short projects to accompany the Intro to JavaScript group sessions.
 ### Intro - Introduction to the DOM
 **Slides:** [Class 4: Introduction to the DOM](http://girldevelopit.github.io/gdi-featured-js-intro/class4.html)
 
+**Tasks:** [Introduction to the DOM](js4)
+
 <sub>Forked from Girl, Develop It
 Copyright (C) 2014 Hakim El Hattab, http://hakim.se</sub>
 
