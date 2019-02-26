@@ -33,20 +33,25 @@ LS9 8AG
 
 
 ## Companies we are talking to
+
+### Confirmed for Speed Dating
+
 * [Creode](https://www.creode.co.uk/)
 * [First 10](https://www.first10.co.uk/)
-* [Green Gecko](https://greengeckodigital.co.uk)
 * [New Redo](https://www.newredo.com/)
+* [Ewe](http://www.ewe.agency/)
+* [Umph](umpf.co.uk)
+
+### Wanting to interview
+* [Symbiant](symbiant.co.uk)
 * [Pepper Digital](https://www.pepperdigital.com/)
 * [Sculpt](https://sculpt.digital/)
-* [NHS Digital](https://digital.nhs.uk/)
-* [Zeal](https://wehavezeal.com/)
-* [Skybet](https://www.skybetcareers.com/)
-* [Ewe](http://www.ewe.agency/)
-* [Symbiant](symbiant.co.uk)
 * [AntHill](https://www.anthill.co.uk/)
-* [Sticky Eyes](https://www.stickyeyes.com/)
 
+### Maybes
+* [Skybet](https://www.skybetcareers.com/)
+* [Sticky Eyes](https://www.stickyeyes.com/)
+* [NHS Digital](https://digital.nhs.uk/)
 
 ## Find your own
 Remember you can reach people that we cannot - finding a company you would like to work for and approaching them yourself is a really good way to secure yourself a placement. See our [Preparation](preparation) and [Research](research) pages for more.
