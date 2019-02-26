@@ -37,18 +37,23 @@ LS9 8AG
 ### Confirmed for Speed Dating
 
 * [Creode](https://www.creode.co.uk/)
-* [First 10](https://www.first10.co.uk/)
 * [New Redo](https://www.newredo.com/)
 * [Ewe](http://www.ewe.agency/)
+* [Ascensor](https://www.ascensor.co.uk/)
 * [Umph](umpf.co.uk)
 
 ### Wanting to interview
+* [First 10](https://www.first10.co.uk/)
 * [Symbiant](symbiant.co.uk)
 * [Pepper Digital](https://www.pepperdigital.com/)
 * [Sculpt](https://sculpt.digital/)
 * [AntHill](https://www.anthill.co.uk/)
+* [Puddle Digital](https://puddledigital.co.uk/)
 
 ### Maybes
+* [Panitelligence](https://panintelligence.com/)
+* [Euro Plus Direct](https://www.europlusdirect.com/)
+* [Brass Agency](https://www.brassagency.com/)
 * [Skybet](https://www.skybetcareers.com/)
 * [Sticky Eyes](https://www.stickyeyes.com/)
 * [NHS Digital](https://digital.nhs.uk/)
