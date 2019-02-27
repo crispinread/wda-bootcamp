@@ -50,6 +50,7 @@ LS9 8AG
 * [Sculpt](https://sculpt.digital/)
 * [AntHill](https://www.anthill.co.uk/)
 * [Puddle Digital](https://puddledigital.co.uk/)
+* [IDHL](idhl.com.uk)
 
 ### Maybes
 * [Panitelligence](https://panintelligence.com/)
