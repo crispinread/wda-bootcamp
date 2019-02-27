@@ -45,13 +45,13 @@ LS9 8AG
 
 ### Wanting to interview
 * [First 10](https://www.first10.co.uk/)
-* [Symbiant](symbiant.co.uk)
+* [Symbiant](https://symbiant.co.uk)
 * [Pepper Digital](https://www.pepperdigital.com/)
 * [Sculpt](https://sculpt.digital/)
 * [AntHill](https://www.anthill.co.uk/)
 * [Puddle Digital](https://puddledigital.co.uk/)
-* [IDHL](idhl.com.uk)
-* [Grapple](http://grapple.com/)
+* [IDHL](https://idhl.com.uk)
+* [Grapple](https://www.grapple.co.uk/)
 
 ### Maybes
 * [Panitelligence](https://panintelligence.com/)
