@@ -51,6 +51,7 @@ LS9 8AG
 * [AntHill](https://www.anthill.co.uk/)
 * [Puddle Digital](https://puddledigital.co.uk/)
 * [IDHL](idhl.com.uk)
+* [Grapple](http://grapple.com/)
 
 ### Maybes
 * [Panitelligence](https://panintelligence.com/)
