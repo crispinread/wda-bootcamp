@@ -40,7 +40,7 @@ LS9 8AG
 * [New Redo](https://www.newredo.com/)
 * [Ewe](http://www.ewe.agency/)
 * [Ascensor](https://www.ascensor.co.uk/)
-* [Umph](umpf.co.uk)
+* [Umpf](https://umpf.co.uk)
 * [We are Formed](http://www.weareformed.com/)
 
 ### Wanting to interview
