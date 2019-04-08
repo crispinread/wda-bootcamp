@@ -25,9 +25,9 @@ LS9 8AG
 [Directions](https://www.google.com/maps?z=16&q=address:+odi+leeds+3rd+floor+munro+house+duke+street+ls9+8ag)
 
 ### When
-#### Wednesday 27th February
+#### Wednesday 1st May
 
-* 5pm - Presentation to employers by Sheena and Crispin
+* 5:15pm - Presentation to employers by Sheena and Crispin
 * 5:30pm - 5 minute Interviews
 * 7pm - End
 
@@ -35,34 +35,15 @@ LS9 8AG
 ## Companies we are talking to
 
 ### Confirmed for Speed Dating
-
-* [Creode](https://www.creode.co.uk/)
-* [New Redo](https://www.newredo.com/)
-* [Ewe](http://www.ewe.agency/)
-* [Ascensor](https://www.ascensor.co.uk/)
-* [Umpf](https://umpf.co.uk)
-* [We are Formed](http://www.weareformed.com/)
+* [Un.Titled](https://un.titled.co.uk/)
+* [Manta Ray Media](http://www.mantaraymedia.co.uk/)
+* [Big Blue Door](bigbluedoor.net)
+* [Gripped](https://gripped.io)
+* [Konnect](https://konnect.digital/)
 
 ### Wanting to interview
-* [First 10](https://www.first10.co.uk/)
-* [Symbiant](https://symbiant.co.uk)
-* [Sculpt](https://sculpt.digital/)
-* [AntHill](https://www.anthill.co.uk/)
-* [Puddle Digital](https://puddledigital.co.uk/)
-* [IDHL](https://idhl.com.uk)
-* [Grapple](https://www.grapple.co.uk/)
-* [Make Do](make-do.net)
-* [Novotek](https://novotek.com)
-* [Punch](https://punch-creative.co.uk)
+*
 
-### Maybes
-* [Pepper Digital](https://www.pepperdigital.com/)
-* [Panitelligence](https://panintelligence.com/)
-* [Euro Plus Direct](https://www.europlusdirect.com/)
-* [Brass Agency](https://www.brassagency.com/)
-* [Skybet](https://www.skybetcareers.com/)
-* [Sticky Eyes](https://www.stickyeyes.com/)
-* [NHS Digital](https://digital.nhs.uk/)
 
 ## Find your own
 Remember you can reach people that we cannot - finding a company you would like to work for and approaching them yourself is a really good way to secure yourself a placement. See our [Preparation](preparation) and [Research](research) pages for more.
