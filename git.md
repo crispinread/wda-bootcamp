@@ -17,7 +17,24 @@ At the end of this training you will be able to:
 - Create and manage repositories and collaborators in GitHub
 - Use GitHubs 'Pull Request' feature for code reviews
 
+## Overview
+
+1. Why change management
+1. Version control software
+1. Intro to Git
+
+## Task
+
+1. Go through the Readme file in the [Git Repo for Git-It](https://github.com/jlord/git-it-electron)
+1. Install GitHub Desktop and a text editor (if you have not already)
+1. Download and install the Git-It desktop tutorial
+1. Complete the tutorial
+1. Create a new repo for your [GitHub profile page](https://bootcamp.wdan.uk/projects/html-css/profile)
+
+NB - When creating your profile page be sure to write [good commit messages](https://chris.beams.io/posts/git-commit/). Employers will like to see you understand the importance of well structured code and communication.
+
 ## Resources
+1. Slides: [Bootcamp Day 2](https://docs.google.com/presentation/d/126EHkaPl22FvYgYRwBWnwghqxsLAXpD1Cuusc-TNVvg/edit#slide=id.g4e275b5d70_0_111)
 1. Medium [Git - ELI5](https://hackernoon.com/understanding-git-fcffd87c15a3)
 1. GitHub [Try Git](https://try.github.io/)
 1. PeepCode [Git Internals PDF](https://github.com/pluralsight/git-internals-pdf)
