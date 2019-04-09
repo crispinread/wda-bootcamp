@@ -64,10 +64,10 @@ It is a really good idea to put more than the minimum required number of blog po
 
 ## Examples
 
-* [https://ben.wdan.uk/](ben.wdan.uk)
-* [https://bruno.wdan.uk/](bruno.wdan.uk)
-* [https://fabiana.wdan.uk/](fabiana.wdan.uk)
-* [https://jon.wdan.uk/](jon.wdan.uk)
+* [ben.wdan.uk](https://ben.wdan.uk/)
+* [bruno.wdan.uk](https://bruno.wdan.uk/)
+* [bruno.wdan.uk](https://fabiana.wdan.uk)
+* [jon.wdan.uk)](https://jon.wdan.uk/)
 
 ## Resources
 
