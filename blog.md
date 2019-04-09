@@ -71,34 +71,19 @@ It is a really good idea to put more than the minimum required number of blog po
 
 ## Resources
 
-* **Watch:** [What is Wordpress](https://www.youtube.com/watch?v=VdvEdMMtNMY)
-
-* **Read: **[Why should you use Wordpress](http://www.wpbeginner.com/why-you-should-use-wordpress/)
-
-* **Read:** [About Wordpress](https://wordpress.org/about/)
-
-* **Watch:** [Wordpress.com Vs Wordpress.org](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)**[co**m](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)
-
+* [What is Wordpress](https://www.youtube.com/watch?v=VdvEdMMtNMY)
+* [Why should you use Wordpress](http://www.wpbeginner.com/why-you-should-use-wordpress/)
+* [About Wordpress](https://wordpress.org/about/)
+* [Wordpress.com Vs Wordpress.org](https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/)
 * [Exploring the WordPress Dashboard](https://ithemes.com/tutorials/wordpress-dashboard/)
-
 * [Using the WordPress Admin Bar](https://ithemes.com/tutorials/the-wordpress-admin-bar/)
-
 * [Exploring WordPress Settings](https://ithemes.com/tutorials/exploring-wordpress-settings/)
-
 * [Wordpress: General settings](https://codex.wordpress.org/Settings_General_Screen)
-
 * [WordPress Posts vs Pages](https://ithemes.com/tutorials/wordpress-posts-vs-pages/)
-
 * [Creating a WordPress Post](https://ithemes.com/tutorials/creating-a-wordpress-post/)
-
 * [Adding Links in WordPress](https://ithemes.com/tutorials/adding-links-in-wordpress/)
-
 * [Adding Images in WordPress](https://ithemes.com/tutorials/adding-images-in-wordpress/)
-
 * [Using the WordPress Media Library](https://ithemes.com/tutorials/using-the-wordpress-media-library/)
-
 * [Formatting WordPress Posts](https://ithemes.com/tutorials/formatting-wordpress-posts/)
-
 * [Scheduling WordPress Posts](https://ithemes.com/tutorials/scheduling-wordpress-posts/)
-
 * [Admin panels](https://codex.wordpress.org/Administration_Panels)
