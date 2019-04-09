@@ -62,6 +62,12 @@ It is a really good idea to put more than the minimum required number of blog po
 1. Drupal Vs Wordpress
 1. Open Source
 
+## Examples
+
+* [https://ben.wdan.uk/](ben.wdan.uk)
+* [https://bruno.wdan.uk/](bruno.wdan.uk)
+* [https://fabiana.wdan.uk/](fabiana.wdan.uk)
+* [https://jon.wdan.uk/](jon.wdan.uk)
 
 ## Resources
 
