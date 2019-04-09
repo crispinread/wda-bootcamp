@@ -12,9 +12,16 @@ Keep up with your learning and blogging - you have full access to all of the cou
 
 ## 'Speed Dating' Interviews
 
-We are hosting a session of quick fire 6 minute interviews between you and local employers. We'll have a workshop for a couple of hours beforehand to help you to prepare.
+We are hosting a session of quick fire 5 minute interviews between you and local employers. We'll have a workshop for a couple of hours beforehand to help you to prepare.
 
 ### Where
+
+[Happy Ltd](https://happy.co.uk)
+3rd Floor
+9 Alie street
+London
+E1
+
 [ODI Leeds](https://odileeds.org/)
 
 3rd Floor,
@@ -42,7 +49,7 @@ LS9 8AG
 * [Konnect](https://konnect.digital/)
 
 ### Wanting to interview
-*
+* 
 
 
 ## Find your own
