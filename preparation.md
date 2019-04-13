@@ -14,6 +14,13 @@ Give your CV a bit of a spruce up - if you don’t have an intro or personal sta
 
 “Confident/Dedicated/Enthusiastic/Outgoing/Hardworking individual looking to join a web development team as an apprentice. I’ve been making websites for 2 years and / I’ve only been coding for a few weeks but I know this is the career for me/I’d really like to learn skills from the people who actually do the job.
 
+### CV Resources
+* [Template Gallery on Google Docs](https://docs.google.com/document/u/0/?tgif=c)
+* The Muse: [Our 5 Favorite Google Docs Resume Templates (and How to Make Them Work for You)](https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them)
+* CW Jobs: [TOP 5 CV TIPS](https://www.cwjobs.co.uk/careers-advice/cvs/top-5-cv-tips)
+* Total Jobs: [10 steps to a successful CV](https://www.totaljobs.com/advice/successful-cv)
+* Monster: [CV Tips](https://www.monster.co.uk/career-advice/article/cv-tips)
+
 ### Cover Letter Template
 
 Write out a draft cover letter - this does not need to be long but it is a great opportunity to express your personality and enthusiasm - it’s a longer version of the personal statement from your CV. It is also important that you talk about the company you are approaching in your letter - more on this in the research section next.
