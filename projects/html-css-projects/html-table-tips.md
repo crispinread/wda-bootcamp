@@ -1,41 +1,30 @@
 ---
 layout: page
-title: Profile
-subtitle: Create a profile page
+title: Semantic HTML
+subtitle: Tips and Resources for Table Challenge
 use-site-title: true
-permalink: /projects/html-css/profile
+permalink: /projects/html-css/table-tips
 ---
-To boost your online profile you can create a profile page for yourself. This could also be a nice way to showcase your ability to build a responsive web page.
+## Tips
 
-We can use Github pages to host the site at yourusername.github.io
-It doesn't have to be fancy - at this point we are just looking for a first draft. At interviews you can talk about future plans.
+* Get control of your [table-layout](https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout).
+* Think about your [font stack](https://www.thoughtco.com/font-stack-definition-3467414).
+* Make your table markup as simple as possible, and keep things flexible, e.g. by using percentages, so the design is more responsive.
+* Use [table-layout](https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout): fixed to create a more predictable table layout that allows you to easily set column widths by setting [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width) on their headings ([<th>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)).
+* Use [border-collapse](https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse): collapse to make table elements borders collapse into each other, producing a neater and easier to control look.
+* Use [<thead>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead), [<tbody>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody), and [<tfoot>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot) to break up your table into logical chunks and provide extra places to apply CSS to, so it is easier to layer styles on top of one another if required.
+* Use zebra striping to make alternate rows easier to read.
+* Use [text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align) to line up your [<th>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th) and [<td>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td) text, to make things neater and easier to follow.
 
-You can host simple sites using GitHub pages - you just turn the option on in the repo settings. What we are looking for is a profile site of you hosed at:
-**https://username.github.io.**
+# Resources
 
-Here is a how to from GitHub themselves:
-[https://pages.github.com/](https://pages.github.com/)
+## Links
 
-What we are looking for here is
- - Image of you
- - Intro text
- - Link to your blog
- - Link to your GitHub
- - Link to your social - Twitter / LinkedIn etc.
- - etc.
-
-Here are a couple of examples of something simple:
-
-![](/img/example1.png)
-
-![](/img/example2.png)
-
-
-Here is another example
-[crispinread.co.uk](https://crispinread.co.uk/)
-
-I used a template to create that site but you could do one from scratch.
-
-You could use a css framework like [Bootstrap](https://getbootstrap.com/) or [Skeleton](http://getskeleton.com/) - there are loads...
-
-You could get inspiration from showcase sites like [Dribbble](https://dribbble.com/) or [onepagelove](https://onepagelove.com/gallery/personal); blogs like [The Muse](https://www.themuse.com/advice/our-24-favorite-onepage-personal-websites-will-inspire-you-to-make-your-own) or even good ol' [Google](https://www.google.com/search?q=simple+one+page+personal+site&rlz=1C5CHFA_enGB802GB802&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiFnIqduqfgAhVKZ1AKHeMNBywQ_AUIDigB&biw=1440&bih=820)
+* [W3Schools Table Layout](https://www.w3schools.com/cssref/pr_tab_table-layout.asp)
+* [CSS Tricks Fixed Table Layout](https://css-tricks.com/fixing-tables-long-strings/)
+* [MDN - :nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
+* [MDN - caption-side](https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side)
+* [MDN - border collapse](https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse)
+* [MDN - Text Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)  
+* [MDN - Linear Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient)
+* [MDN - Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
