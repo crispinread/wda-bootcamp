@@ -48,6 +48,9 @@ LS9 8AG
 * [Gripped](https://gripped.io)
 * [Konnect](https://konnect.digital/)
 * [ATD Travel](https://www.atdtravelservices.co.uk)
+* [Lorien](https://www.lorienglobal.com/en/)
+* [Moot Design](http://www.mootdesign.com/)
+* [Nexo](https://nexo.com)
 
 ### Wanting to interview
 *
